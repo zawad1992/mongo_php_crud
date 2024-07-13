@@ -38,7 +38,7 @@ This repository contains a PHP script to perform basic CRUD (Create, Read, Updat
 
    ```bash
    # For Windows use
-   .\\insert_curl.bat
+   .\insert_curl.bat
 
    # For Mac or Linux use
    ./insert_curl.sh
