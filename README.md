@@ -44,7 +44,7 @@ This repository contains a PHP script to perform basic CRUD (Create, Read, Updat
    ./insert_curl.sh
    ```
 
-   This script will attempt to create 100 random user documents in your MongoDB collection. You can modify the script to perform other CRUD operations as needed.
+   This script will attempt to create 1000 random user documents in your MongoDB collection. You can modify the script to perform other CRUD operations as needed.
 
 **Additional Notes:**
 
